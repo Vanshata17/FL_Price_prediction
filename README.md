@@ -1,5 +1,5 @@
 ## Introduction
-The goal of this project is to build a machine learning model that predicts flight prices based on various features such as date of journey, source, destination, airline, and more. AWS SageMaker is used for data processing, model training, and deployment.
+The goal of this project is to build a machine learning model that predicts flight prices based on various features such as date of journey, source, destination, airline, and more. AWS SageMaker is used for model training, and deployment.
 ## Project Workflow
 Data Collection: Import flight price data.
 Data Cleaning: Handle missing values, duplicate records, and convert data types.
